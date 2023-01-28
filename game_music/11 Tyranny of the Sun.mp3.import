@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/11 Tyranny of the Sun.mp3-f41b932ecc51f5a429073b3d79f3c430.mp3str"
+
+[deps]
+
+source_file="res://game_music/11 Tyranny of the Sun.mp3"
+dest_files=[ "res://.import/11 Tyranny of the Sun.mp3-f41b932ecc51f5a429073b3d79f3c430.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

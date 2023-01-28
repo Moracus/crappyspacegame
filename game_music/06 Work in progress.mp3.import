@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/06 Work in progress.mp3-559a302751050921339e4cf764f00f24.mp3str"
+
+[deps]
+
+source_file="res://game_music/06 Work in progress.mp3"
+dest_files=[ "res://.import/06 Work in progress.mp3-559a302751050921339e4cf764f00f24.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

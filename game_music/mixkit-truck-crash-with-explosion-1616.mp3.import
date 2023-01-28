@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mixkit-truck-crash-with-explosion-1616.mp3-3cf6f7bb248543ec2ef763cf90e5e7d4.mp3str"
+
+[deps]
+
+source_file="res://game_music/mixkit-truck-crash-with-explosion-1616.mp3"
+dest_files=[ "res://.import/mixkit-truck-crash-with-explosion-1616.mp3-3cf6f7bb248543ec2ef763cf90e5e7d4.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

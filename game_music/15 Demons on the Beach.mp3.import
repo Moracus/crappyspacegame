@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/15 Demons on the Beach.mp3-6dcb74225be37ffe0170182a0e6c94f4.mp3str"
+
+[deps]
+
+source_file="res://game_music/15 Demons on the Beach.mp3"
+dest_files=[ "res://.import/15 Demons on the Beach.mp3-6dcb74225be37ffe0170182a0e6c94f4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

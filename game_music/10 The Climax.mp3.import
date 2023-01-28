@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/10 The Climax.mp3-7522c33717d6ea85b83c9ff47d00e3cd.mp3str"
+
+[deps]
+
+source_file="res://game_music/10 The Climax.mp3"
+dest_files=[ "res://.import/10 The Climax.mp3-7522c33717d6ea85b83c9ff47d00e3cd.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

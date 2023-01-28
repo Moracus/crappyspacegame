@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/05 Solitude.mp3-ee4a48384ac7729088ddaf8d8ed49152.mp3str"
+
+[deps]
+
+source_file="res://game_music/05 Solitude.mp3"
+dest_files=[ "res://.import/05 Solitude.mp3-ee4a48384ac7729088ddaf8d8ed49152.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
