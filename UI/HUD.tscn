@@ -71,6 +71,7 @@ margin_right = 10.0
 margin_bottom = -32.9999
 rect_scale = Vector2( 1.71965, 0.872504 )
 custom_fonts/font = SubResource( 3 )
+toggle_mode = true
 icon = ExtResource( 4 )
 flat = true
 icon_align = 1
